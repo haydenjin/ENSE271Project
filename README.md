@@ -19,12 +19,18 @@ WordPress
 ### Project constraints:
 Technology limitations 
 
+### Links: 
+USM link: https://landofooo.storiesonboard.com/m/hoiULXhA8UKYT0egUVE4FA
+
 
 ## TODO:
 
 Affinity diagramming document(s)
+
 Empathy mapping(s)
+
 User story map (PDF export from StoriesOnBoard) with envisioned MVPs
+
 Summarized customer notes from scheduled customer/team check-ins
 
 Self/peer review files (uploaded to URCourses only)
