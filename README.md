@@ -29,11 +29,11 @@ USM link: https://landofooo.storiesonboard.com/m/hoiULXhA8UKYT0egUVE4FA
 
 ## TODO:
 
-Affinity diagramming document(s)
+Proposed navigations/site maps (one per person)
 
-Empathy mapping(s)
+Low-fidelity prototype explorations (one per person)
 
-User story map (PDF export from StoriesOnBoard) with envisioned MVPs
+Updated user story map
 
 Summarized customer notes from scheduled customer/team check-ins
 
