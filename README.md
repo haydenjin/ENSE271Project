@@ -29,12 +29,25 @@ USM link: https://landofooo.storiesonboard.com/m/hoiULXhA8UKYT0egUVE4FA
 
 ## TODO:
 
-Proposed navigations/site maps (one per person)
+Wordpress site:
 
-Low-fidelity prototype explorations (one per person)
+Ihab - Home, Login, Create account 
 
-Updated user story map
+Hayden - Order, About, contact
 
-Summarized customer notes from scheduled customer/team check-ins
+Jiabo - Join us, Support us 
 
-Self/peer review files (uploaded to URCourses only)
+Report:
+
+Intro - Hayden
+
+Business need/opportunity (1/2) - Jiabo
+
+Reflections on project planning (2) - Hayden
+
+Reflections on project results (2) - Ihab
+
+WordPress themes and plugins - Everyone
+
+
+
